@@ -4,7 +4,7 @@
 
 # Olá Dev, bem-vindo ! 
 
-### Estudante da área de computação com enfoque em back-end, buscando crescer como ser humano e me desenvolver intelectualmente a cada oportunidade que a vida me oferece.
+### Web Developer, buscando crescer como ser humano e me desenvolver intelectualmente a cada oportunidade que a vida me oferece.
 
 ## Conecte-se comigo
 
