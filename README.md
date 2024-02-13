@@ -4,7 +4,7 @@
 
 # Olá Dev, bem-vindo ! 
 
-### Analista de Business Intelligence, buscando crescer como ser humano e me desenvolver intelectualmente a cada oportunidade que a vida me oferece.
+### Desenvolvedor de Business Intelligence, buscando crescer como ser humano e me desenvolver intelectualmente a cada oportunidade que a vida me oferece.
 
 ## Conecte-se comigo
 
