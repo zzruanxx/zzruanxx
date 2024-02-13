@@ -4,7 +4,7 @@
 
 # Olá Dev, bem-vindo ! 
 
-### Web Developer, buscando crescer como ser humano e me desenvolver intelectualmente a cada oportunidade que a vida me oferece.
+### Analista de Business Intelligence, buscando crescer como ser humano e me desenvolver intelectualmente a cada oportunidade que a vida me oferece.
 
 ## Conecte-se comigo
 
