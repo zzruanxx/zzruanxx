@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=execute&text1=Ruan%20Batista%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&width=800&height=120&section=header&font=Fira%20Code" alt="Banner animado Ruan Batista com efeito digital"/>
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Ruan%20Batista%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&width=800&height=120&section=header&font=Fira%20Code" alt="Banner animado Ruan Batista com efeito digital"/>
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="150" alt="Ruan Batista Avatar Placeholder - Consider replacing with your own" />
-  </p>
-
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=34&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Olá%2C+Dev!+Bem-vindo(a)+ao+meu+GitHub!;Eu+sou+Ruan+Batista+%F0%9F%91%8B;Apaixonado+por+tecnologia+e+criação!" alt="Typing SVG">
@@ -94,7 +93,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&background=8A2BE299&center=true&vCenter=true&width=400&lines=🎮+Hobbies+%26+Interesses" alt="Hobbies & Interesses Title"/>
 </h2>
 <p align="center">
-  <img src="https://cdn.simpleicons.org/xbox/white" height="34" title="Xbox" alt="Xbox icon"/>
+  <img src="https://cdn.simpleicons.org/xbox/107C10/white" height="34" title="Xbox" alt="Xbox icon"/>
   <img src="https://cdn.simpleicons.org/steam/000000/white" height="34" title="Steam" alt="Steam icon"/>
   <img src="https://cdn.simpleicons.org/spotify/1DB954/white" height="34" title="Música" alt="Spotify icon"/>
   <img src="https://cdn.simpleicons.org/bookstack/8A2BE2/white" height="34" title="Livros" alt="BookStack icon for Livros"/>
