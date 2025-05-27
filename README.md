@@ -51,7 +51,7 @@
 <table align="center" width="100%" style="border:none; border-collapse:collapse;">
 <tr>
 <td align="center" valign="top" width="25%" style="padding:10px; border:2px solid #8A2BE2; border-radius: 16px; box-shadow: 0 2px 12px #8A2BE255;">
-  <b><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8A2BE2&center=true&vCenter=true&width=150&lines=Frontend" alt="Frontend Title"/></b><br>
+  <b><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8A2BE2&center=true&vCenter=true&width=150&lines=Frontend" alt="Frontend "/></b><br>
   <img src="https://skillicons.dev/icons?i=react,flutter,dart,tailwindcss,figma,wordpress" height="42"/><br>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -60,7 +60,7 @@
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 </td>
 <td align="center" valign="top" width="25%" style="padding:10px; border:2px solid #8A2BE2; border-radius: 16px; box-shadow: 0 2px 12px #8A2BE255;">
-  <b><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8A2BE2&center=true&vCenter=true&width=200&lines=Backend+%26+Banco" alt="Backend & Banco Title"/></b><br>
+  <b><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8A2BE2&center=true&vCenter=true&width=200&lines=Backend+%26+Banco" alt="Backend & Banco"/></b><br>
   <img src="https://skillicons.dev/icons?i=python,flask,django,postgres" height="42"/><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -68,7 +68,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </td>
 <td align="center" valign="top" width="25%" style="padding:10px; border:2px solid #8A2BE2; border-radius: 16px; box-shadow: 0 2px 12px #8A2BE255;">
-  <b><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8A2BE2&center=true&vCenter=true&width=250&lines=Design+%26+Criatividade" alt="Design & Criatividade Title"/></b><br>
+  <b><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8A2BE2&center=true&vCenter=true&width=250&lines=Design+%26+Criatividade" alt="Design & Criatividade "/></b><br>
   <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,xd" height="42"/><br>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
@@ -77,7 +77,7 @@
   <img src="https://img.shields.io/badge/Adobe%20Express-FF61F6?style=for-the-badge&logo=adobeexpress&logoColor=white"/>
 </td>
 <td align="center" valign="top" width="25%" style="padding:10px; border:2px solid #8A2BE2; border-radius: 16px; box-shadow: 0 2px 12px #8A2BE255;">
-  <b><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8A2BE2&center=true&vCenter=true&width=280&lines=Versionamento+%26+DevOps" alt="Versionamento & DevOps Title"/></b><br>
+  <b><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8A2BE2&center=true&vCenter=true&width=280&lines=Versionamento+%26+DevOps" alt="Versionamento & DevOps "/></b><br>
   <img src="https://skillicons.dev/icons?i=git,github" height="42"/>
   <img src="https://cdn.simpleicons.org/gitkraken/179287/white" height="42" title="GitKraken" alt="GitKraken icon"/><br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -90,7 +90,7 @@
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&background=8A2BE299&center=true&vCenter=true&width=400&lines=🎮+Hobbies+%26+Interesses" alt="Hobbies & Interesses Title"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&background=8A2BE299&center=true&vCenter=true&width=400&lines=🎮+Hobbies+%26+Interesses" alt="Hobbies & Interesses "/>
 </h2>
 <p align="center">
   <img alt="Xbox" height="28" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"/>
