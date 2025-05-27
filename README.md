@@ -10,7 +10,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=withe)](https://https://discord.com/channels/zzruanxx/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=Violet)](https://www.instagram.com/rrruanzx/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=Green)](https://wa.me/5522997752134)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=Green)](https://wa.me/5522935005166)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/ruan-batista-rodrigues-94295b293/)
 
 ## Habilidades 
