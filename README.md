@@ -45,7 +45,7 @@
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&background=8A2BE299&center=true&vCenter=true&width=500&lines=🛠️+Tech+Stack+%26+Ferramentas" alt="Tech Stack & Ferramentas Title"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&background=8A2BE299&center=true&vCenter=true&width=500&lines=🛠️+Tech+Stack+%26+Ferramentas" alt="Tech Stack & Ferramentas"/>
 </h2>
 
 <table align="center" width="100%" style="border:none; border-collapse:collapse;">
