@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=execute&text1=Ruan%20Batista%20👨‍💻&width=800&height=120&section=header&font=Fira%20Code" alt="Banner animado Ruan Batista com efeito digital"/>
+  <img src="https://svg-banners.vercel.app/api?type=execute&text1=Ruan%20Batista%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&width=800&height=120&section=header&font=Fira%20Code" alt="Banner animado Ruan Batista com efeito digital"/>
 </p>
 
 <p align="center">
@@ -94,7 +94,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&background=8A2BE299&center=true&vCenter=true&width=400&lines=🎮+Hobbies+%26+Interesses" alt="Hobbies & Interesses Title"/>
 </h2>
 <p align="center">
-  <img src="https://cdn.simpleicons.org/xbox/107C10/white" height="34" title="Xbox" alt="Xbox icon"/>
+  <img src="https://cdn.simpleicons.org/xbox/white" height="34" title="Xbox" alt="Xbox icon"/>
   <img src="https://cdn.simpleicons.org/steam/000000/white" height="34" title="Steam" alt="Steam icon"/>
   <img src="https://cdn.simpleicons.org/spotify/1DB954/white" height="34" title="Música" alt="Spotify icon"/>
   <img src="https://cdn.simpleicons.org/bookstack/8A2BE2/white" height="34" title="Livros" alt="BookStack icon for Livros"/>
@@ -110,7 +110,7 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zzruanxx&bg_color=141321&color=8A2BE2&line=8A2BE2&point=FFFFFF&area=true&hide_border=true&theme=rogue" width="90%" alt="Ruan's GitHub Activity Graph"/>
-  </p>
+</p>
 
 <div align="center">
   <svg width="340" height="20">
@@ -137,4 +137,12 @@
 <p align="center" width="100%">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320" width="100%" height="70px" preserveAspectRatio="none">
   <path fill="#8A2BE2" fill-opacity="0.7" d="M0,160L48,181.3C96,203,192,245,288,261.3C384,277,480,267,576,234.7C672,203,768,149,864,117.3C960,85,1056,75,1152,90.7C1248,107,1344,149,1392,170.7L1440,192L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path>
-  <path fill="#8A2BE2" fill-opacity="1" d="M0,224L48,208C96,192,192,160,288,160C384,160,480,192,576,218.7C672,245,768,267,864,256C960,245,1056,203,1152,192C1248,181,1344,203,1392,213.3L1440,224L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,9
+  <path fill="#8A2BE2" fill-opacity="1" d="M0,224L48,208C96,192,192,160,288,160C384,160,480,192,576,218.7C672,245,768,267,864,256C960,245,1056,203,1152,192C1248,181,1344,203,1392,213.3L1440,224L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path>
+</svg>
+</p>
+---
+
+<p align="center">
+  <b>⭐️ Sinta-se à vontade para se conectar e colaborar! ⭐️<br>
+  <i>Perfil em constante evolução... igual a mim!</i>
+</p>
