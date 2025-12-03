@@ -1,63 +1,117 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Ruan+Batista!;Desenvolvedor+Full+Stack;Estudante+de+Computa%C3%A7%C3%A3o+na+UFF;Apaixonado+por+Design+e+C%C3%B3digo" alt="Typing SVG" />
-</div>
+  
+# Ruan Batista
+### Estudante de Ciências da Computação | Desenvolvedor Full Stack
 
-<div align="center">
-  <p>
-    <b>🚀 Transformando ideias em realidade através de código e design.</b>
-  </p>
-  <p>
-    Atualmente no 5º período de Sistemas de Computação na UFF. Tenho foco em criar interfaces elegantes e sistemas robustos, unindo a lógica do Python/Backend com a criatividade do Frontend e UX/UI.
-  </p>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/ruan-batista-rodrigues-94295b293/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+<p>
+  <a href="https://www.linkedin.com/in/ruan-batista-rodrigues-94295b293/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://wa.me/5522935005166" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
+  <a href="https://wa.me/5522935005166">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="mailto:seu_email@exemplo.com"> <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  <a href="https://discord.com/users/zzruanxx">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://discord.com/users/zzruanxx" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
+  <a href="https://www.instagram.com/rrruanzx/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+</p>
+
 </div>
 
-<br>
-<hr>
+---
 
-<h3 align="center">🛠️ Tech Stack & Ferramentas</h3>
+## 👨‍💻 Sobre Mim
+
+Sou estudante apaixonado por tecnologia e desenvolvimento de software, sempre em busca de novos desafios e oportunidades de crescimento. Acredito no aprendizado contínuo como forma de evolução pessoal e profissional.
+
+**🎯 Foco atual:** Desenvolvimento Full Stack, estruturas de dados e algoritmos
+
+---
+
+## 🛠️ Stack Tecnológica
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+### Backend & Database
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+### Design & Criatividade
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white)
+![Premiere](https://img.shields.io/badge/Premiere-9999FF?style=flat&logo=adobepremierepro&logoColor=white)
+
+### Ferramentas & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=flat&logo=gitkraken&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,dart,js,ts,react,flutter,flask,django,postgres,html,css,tailwind" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,ae,pr,git,github,docker,linux,azure" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zzruanxx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzruanxx&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
-<br>
-<hr>
-
-<h3 align="center">📊 GitHub Stats</h3>
-
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=zzruanxx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzruanxx&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=8A2BE2&langs_count=6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zzruanxx&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-<br>
+---
 
-<h3 align="center">🐍 Contribuições (Snake Game)</h3>
+## 🐍 Contribuições
+
 <div align="center">
-  <img src="https://github.com/zzruanxx/zzruanxx/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/zzruanxx/zzruanxx/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-<br>
-<hr>
+---
+
+## 🏆 Conquistas
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zzruanxx&color=8A2BE2&style=flat-square&label=Profile+Views" alt="Profile views"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=zzruanxx&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Troféus"/>
+</div>
+
+---
+
+## 📈 Atividade Recente
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zzruanxx&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Gráfico de Atividade"/>
+</div>
+
+---
+
+## 💡 Interesses
+
+- 🎮 Gaming (Xbox, Steam)
+- 📚 Leitura e aprendizado contínuo
+- 🎵 Música (Spotify)
+- 🎬 Anime e cultura pop
+- 🏈 Esportes americanos (NFL, NBA, NHL, MLB)
+
+---
+
+<div align="center">
+  
+### 📫 Entre em contato
+
+*Estou sempre aberto a novos projetos, colaborações e oportunidades de aprendizado!*
+
+<img src="https://komarev.com/ghpvc/?username=zzruanxx&color=blueviolet&style=flat&label=Visualizações" alt="Profile views"/>
+
 </div>
