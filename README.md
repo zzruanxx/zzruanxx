@@ -1,12 +1,22 @@
 <div align="center">
-  
+
 # Ruan Batista
 ### Estudante de Sistemas de Computação | Desenvolvedor Full Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=neon&animate=pulse&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-batista-rodrigues-94295b293/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=neon&animate=pulse&logo=whatsapp&logoColor=white)](https://wa.me/5522935005166)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=neon&animate=pulse&logo=discord&logoColor=white)](https://discord.com/users/zzruanxx)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=neon&animate=pulse&logo=instagram&logoColor=white)](https://www.instagram.com/rrruanzx/)
+<div align="center">
+  <a href="https://www.linkedin.com/in/ruan-batista-rodrigues-94295b293/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://wa.me/5522935005166">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+  </a>
+  <a href="https://discord.com/users/zzruanxx">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+  <a href="https://www.instagram.com/rrruanzx/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
 
 </div>
 
@@ -18,63 +28,71 @@ Desenvolvedor apaixonado por tecnologia e soluções inovadoras que impactam pos
 
 Busco constantemente o aperfeiçoamento pessoal e intelectual através de projetos práticos e colaborativos, aplicando metodologias ágeis no desenvolvimento de software. Acredito no potencial transformador da tecnologia e no valor da troca de conhecimentos para o crescimento mútuo e evolução contínua.
 
-**🎯 Foco atual:** 
-- Desenvolvimento Full Stack com Python e PostgreSQL
-- Preparação para certificação Microsoft Azure
-- Desenvolvimento Web e Mobile com metodologias ágeis
-- Concept Art e Design de Interfaces
+**🎯 Foco atual:**
+- 🐍 Desenvolvimento Full Stack com **Python** e **PostgreSQL**
+- ☁️ Preparação para certificação **Microsoft Azure**
+- 📱 Desenvolvimento Web e Mobile com metodologias ágeis
+- 🎨 Concept Art e Design de Interfaces
 
 ---
 
 ## 🛠️ Stack Tecnológica
 
 ### Linguagens & Frameworks
-[![Python](https://shields-2-0.vercel.app/badge/Python-3776AB?style=neon&animate=pulse)](https://python.org)
-[![Django](https://shields-2-0.vercel.app/badge/Django-092E20?style=neon&animate=pulse)](https://www.djangoproject.com/)
-[![Flask](https://shields-2-0.vercel.app/badge/Flask-000000?style=neon&animate=pulse)](https://flask.palletsprojects.com/)
-[![React](https://shields-2-0.vercel.app/badge/React-20232A?style=neon&animate=pulse)](https://reactjs.org/)
-[![Flutter](https://shields-2-0.vercel.app/badge/Flutter-02569B?style=neon&animate=pulse)](https://flutter.dev/)
-[![Dart](https://shields-2-0.vercel.app/badge/Dart-0175C2?style=neon&animate=pulse)](https://dart.dev/)
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+</div>
 
 ### Banco de Dados & Cloud
-[![PostgreSQL](https://shields-2-0.vercel.app/badge/PostgreSQL-4169E1?style=neon&animate=pulse)](https://www.postgresql.org/)
-[![Docker](https://shields-2-0.vercel.app/badge/Docker-2496ED?style=neon&animate=pulse)](https://www.docker.com/)
-[![Azure](https://shields-2-0.vercel.app/badge/Azure-0078D4?style=neon&animate=pulse)](https://azure.microsoft.com/)
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+</div>
 
 ### Design & Criação
-[![Figma](https://shields-2-0.vercel.app/badge/Figma-F24E1E?style=neon&animate=pulse)](https://www.figma.com/)
-[![Adobe XD](https://shields-2-0.vercel.app/badge/Adobe_XD-FF61F6?style=neon&animate=pulse)](https://www.adobe.com/products/xd.html)
-[![Photoshop](https://shields-2-0.vercel.app/badge/Photoshop-31A8FF?style=neon&animate=pulse)](https://www.adobe.com/products/photoshop.html)
-[![Illustrator](https://shields-2-0.vercel.app/badge/Illustrator-FF9A00?style=neon&animate=pulse)](https://www.adobe.com/products/illustrator.html)
-[![After Effects](https://shields-2-0.vercel.app/badge/After_Effects-9999FF?style=neon&animate=pulse)](https://www.adobe.com/products/aftereffects.html)
-[![Premiere Pro](https://shields-2-0.vercel.app/badge/Premiere_Pro-9999FF?style=neon&animate=pulse)](https://www.adobe.com/products/premiere.html)
-[![InDesign](https://shields-2-0.vercel.app/badge/InDesign-FF3366?style=neon&animate=pulse)](https://www.adobe.com/products/indesign.html)
-[![AutoCAD](https://shields-2-0.vercel.app/badge/AutoCAD-EE3124?style=neon&animate=pulse)](https://www.autodesk.com/products/autocad/overview)
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" />
+  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
+  <img src="https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" />
+  <img src="https://img.shields.io/badge/AutoCAD-E52620?style=for-the-badge&logo=autodesk&logoColor=white" />
+</div>
 
 ### Ferramentas & DevOps
-[![Git](https://shields-2-0.vercel.app/badge/Git-F05032?style=neon&animate=pulse)](https://git-scm.com/)
-[![GitHub](https://shields-2-0.vercel.app/badge/GitHub-181717?style=neon&animate=pulse)](https://github.com/)
-[![GitKraken](https://shields-2-0.vercel.app/badge/GitKraken-179287?style=neon&animate=pulse)](https://www.gitkraken.com/)
-[![Jira](https://shields-2-0.vercel.app/badge/Jira-0052CC?style=neon&animate=pulse)](https://www.atlassian.com/software/jira)
-[![VS Code](https://shields-2-0.vercel.app/badge/VS_Code-007ACC?style=neon&animate=pulse)](https://code.visualstudio.com/)
-[![Linux](https://shields-2-0.vercel.app/badge/Linux-FCC624?style=neon&animate=pulse)](https://www.linux.org/)
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</div>
 
 ---
 
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zzruanxx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzruanxx&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zzruanxx&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzruanxx&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zzruanxx&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zzruanxx&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
 
-## 🐍 Contribuições
+## 🐍 Contribuições (Snake)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/zzruanxx/zzruanxx/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -85,7 +103,7 @@ Busco constantemente o aperfeiçoamento pessoal e intelectual através de projet
 ## 🏆 Conquistas
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zzruanxx&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Troféus"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=zzruanxx&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Troféus"/>
 </div>
 
 ---
@@ -93,7 +111,7 @@ Busco constantemente o aperfeiçoamento pessoal e intelectual através de projet
 ## 📈 Atividade Recente
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zzruanxx&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Gráfico de Atividade"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zzruanxx&theme=react-dark&hide_border=true&area=true" width="100%" alt="Gráfico de Atividade"/>
 </div>
 
 ---
@@ -120,11 +138,11 @@ Estou disponível para explorar oportunidades profissionais em empresas de tecno
 ---
 
 <div align="center">
-  
+
 ### 📫 Vamos Conversar?
 
 *Aberto a projetos colaborativos, oportunidades de aprendizado e networking profissional.*
 
-![Profile Views](https://komarev.com/ghpvc/?username=zzruanxx&color=blueviolet&style=flat&label=Visualizações+do+Perfil)
+![Profile Views](https://komarev.com/ghpvc/?username=zzruanxx&color=blueviolet&style=flat&label=Profile+Views)
 
 </div>
