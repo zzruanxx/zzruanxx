@@ -14,7 +14,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Desenvolvedor apaixonado por tecnologia e soluções inovadoras que impactam positivamente a sociedade. Atualmente no 5º período de **Sistemas de Computação** pela **Universidade Federal Fluminense (UFF)**, combinando conhecimentos técnicos sólidos com criatividade e design thinking.
+Desenvolvedor apaixonado por tecnologia e soluções inovadoras que impactam positivamente a sociedade. Atualmente no 5º período de **Sistemas de Computação** pela **Universidade Federal Fluminense**, combinando conhecimentos técnicos sólidos com criatividade e design thinking.
 
 Busco constantemente o aperfeiçoamento pessoal e intelectual através de projetos práticos e colaborativos, aplicando metodologias ágeis no desenvolvimento de software. Acredito no potencial transformador da tecnologia e no valor da troca de conhecimentos para o crescimento mútuo e evolução contínua.
 
