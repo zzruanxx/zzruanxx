@@ -138,7 +138,7 @@ Estou em busca de desafios em empresas de tecnologia que:
 
 <div align="center">
 
-### 💬 Bora conversar?
+### 💬 Vamos conversar?
 
 *Sempre aberto a colaborações, freelas ou apenas um networking de qualidade.*
 
