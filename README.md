@@ -22,7 +22,7 @@
 
 ---
 
-## 👋 Quem sou eu
+## 👋 Olá, seja bem-vindo(a) !
 
 Estudante do 5º período de **Sistemas de Computação na UFF** e desenvolvedor que gosta de colocar a mão na massa. Meu foco é resolver problemas reais unindo código limpo com um visual impactante (graças ao meu background em Design e Concept Art).
 
@@ -36,7 +36,7 @@ Não sou apenas de escrever código; gosto de entender o produto como um todo. A
 
 ---
 
-## 🧰 Meu Arsenal
+## 🧰 Habilidades
 
 ### 💻 Linguagens & Frameworks
 <div style="display: inline_block">
@@ -94,7 +94,7 @@ Não sou apenas de escrever código; gosto de entender o produto como um todo. A
   <img src="https://streak-stats.demolab.com?user=zzruanxx&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-## 🐍 Commit Snake
+## 
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/zzruanxx/zzruanxx/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -123,8 +123,6 @@ Não sou apenas de escrever código; gosto de entender o produto como um todo. A
 - 💻 **Dev:** Desenvolvimento de Software & Soluções Web
 - 🎨 **Criativo:** Concept Art & UI/UX Design
 - ☁️ **Infra:** Cloud Computing & DevOps
-- 🔧 **Base:** Estruturas de Dados & Algoritmos
-- 🚀 **Método:** Metodologias Ágeis & Gestão de Projetos
 
 ---
 
@@ -133,7 +131,7 @@ Não sou apenas de escrever código; gosto de entender o produto como um todo. A
 Estou em busca de desafios em empresas de tecnologia que:
 - Valorizem inovação real e impacto social.
 - Vejam tecnologia como ferramenta de transformação.
-- Incentivem a troca de conhecimento (ninguém cresce sozinho).
+- Incentivem a troca de conhecimento.
 - Queiram criar soluções criativas e funcionais.
 
 ---
