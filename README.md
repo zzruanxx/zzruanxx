@@ -24,15 +24,15 @@
 
 ## 👋 Olá, seja bem-vindo(a) !
 
-Estudante do 5º período de **Sistemas de Computação na UFF** e desenvolvedor que gosta de colocar a mão na massa. Meu foco é resolver problemas reais unindo código limpo com um visual impactante (graças ao meu background em Design e Concept Art).
+desenvolvedor full-stack, estudante e entusiasta de computação, atualmente me encontro no 5º período do curso de **Sistemas de Computação ofertado pela UFF**, sou um desenvolvedor full-stack que gosta de colocar a mão na massa e impactar positivamente a vida das pessoas através da tecnologia, design think e soluções inovadoras. Busco resolver problemas reais unindo código limpo com um visual impactante.
 
-Não sou apenas de escrever código; gosto de entender o produto como um todo. Atualmente, estou mergulhado no ecossistema Python e Cloud, sempre buscando formas de otimizar processos e criar experiências de usuário fluidas.
+Atualmente, estou mergulhado no ecossistema Python e Cloud, sempre buscando formas de otimizar processos e criar experiências de usuário fluidas, funcionais e inovadoras.
 
-**🔭 No radar agora:**
+**🔭 Atualmente:**
 - 🐍 Aprofundando em **Python** (Django/Flask) e bancos não-relacionais (**MongoDB**)
 - ☁️ Estudando para a certificação **Microsoft Azure**
 - 📱 Criando aplicações Web e Mobile ágeis
-- 🎨 Mantendo a criatividade afiada com Concept Art
+- 🎨 Mantendo a criatividade afiada com Concept Art e Design Think.
 
 ---
 
