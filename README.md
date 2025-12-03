@@ -22,23 +22,23 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 👋 Quem sou eu
 
-Desenvolvedor apaixonado por tecnologia e soluções inovadoras que impactam positivamente a sociedade. Atualmente no 5º período de **Sistemas de Computação** pela **Universidade Federal Fluminense**, combinando conhecimentos técnicos sólidos com criatividade e design thinking.
+Estudante do 5º período de **Sistemas de Computação na UFF** e desenvolvedor que gosta de colocar a mão na massa. Meu foco é resolver problemas reais unindo código limpo com um visual impactante (graças ao meu background em Design e Concept Art).
 
-Busco constantemente o aperfeiçoamento pessoal e intelectual através de projetos práticos e colaborativos, aplicando metodologias ágeis no desenvolvimento de software. Acredito no potencial transformador da tecnologia e no valor da troca de conhecimentos para o crescimento mútuo e evolução contínua.
+Não sou apenas de escrever código; gosto de entender o produto como um todo. Atualmente, estou mergulhado no ecossistema Python e Cloud, sempre buscando formas de otimizar processos e criar experiências de usuário fluidas.
 
-**🎯 Foco atual:**
-- 🐍 Desenvolvimento Full Stack com **Python** e **PostgreSQL**
-- ☁️ Preparação para certificação **Microsoft Azure**
-- 📱 Desenvolvimento Web e Mobile com metodologias ágeis
-- 🎨 Concept Art e Design de Interfaces
+**🔭 No radar agora:**
+- 🐍 Aprofundando em **Python** (Django/Flask) e bancos não-relacionais (**MongoDB**)
+- ☁️ Estudando para a certificação **Microsoft Azure**
+- 📱 Criando aplicações Web e Mobile ágeis
+- 🎨 Mantendo a criatividade afiada com Concept Art
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🧰 Meu Arsenal
 
-### Linguagens & Frameworks
+### 💻 Linguagens & Frameworks
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -48,14 +48,14 @@ Busco constantemente o aperfeiçoamento pessoal e intelectual através de projet
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </div>
 
-### Banco de Dados & Cloud
+### ☁️ Infra & Dados
 <div style="display: inline_block">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </div>
 
-### Design & Criação
+### 🎨 Design & Prototipação
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />
@@ -67,7 +67,7 @@ Busco constantemente o aperfeiçoamento pessoal e intelectual através de projet
   <img src="https://img.shields.io/badge/AutoCAD-E52620?style=for-the-badge&logo=autodesk&logoColor=white" />
 </div>
 
-### Ferramentas & DevOps
+### ⚙️ Ferramentas & Workflow
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -79,7 +79,7 @@ Busco constantemente o aperfeiçoamento pessoal e intelectual através de projet
 
 ---
 
-## 📊 Estatísticas GitHub
+## ⚡ Code Data
 
 <div align="center">
   <a href="https://github.com/zzruanxx">
@@ -91,10 +91,10 @@ Busco constantemente o aperfeiçoamento pessoal e intelectual através de projet
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zzruanxx&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=zzruanxx&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-## 🐍 Contribuições (Snake)
+## 🐍 Commit Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/zzruanxx/zzruanxx/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -102,7 +102,7 @@ Busco constantemente o aperfeiçoamento pessoal e intelectual através de projet
 
 ---
 
-## 🏆 Conquistas
+## 🏅 Milestones
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=zzruanxx&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Troféus"/>
@@ -110,7 +110,7 @@ Busco constantemente o aperfeiçoamento pessoal e intelectual através de projet
 
 ---
 
-## 📈 Atividade Recente
+## 📅 Timeline Recente
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zzruanxx&theme=react-dark&hide_border=true&area=true" width="100%" alt="Gráfico de Atividade"/>
@@ -118,32 +118,31 @@ Busco constantemente o aperfeiçoamento pessoal e intelectual através de projet
 
 ---
 
-## 🎯 Áreas de Interesse
+## 🧠 Onde gosto de atuar
 
-- 💻 Desenvolvimento de Software & Soluções Web
-- 🎨 Concept Art & UI/UX Design
-- ☁️ Cloud Computing & DevOps
-- 🔧 Estruturas de Dados & Algoritmos
-- 🎬 Produção Audiovisual & Design Gráfico
-- 🚀 Metodologias Ágeis & Gestão de Projetos
+- 💻 **Dev:** Desenvolvimento de Software & Soluções Web
+- 🎨 **Criativo:** Concept Art & UI/UX Design
+- ☁️ **Infra:** Cloud Computing & DevOps
+- 🔧 **Base:** Estruturas de Dados & Algoritmos
+- 🚀 **Método:** Metodologias Ágeis & Gestão de Projetos
 
 ---
 
-## 🌟 O que Busco
+## 🚀 Próximos Passos
 
-Estou disponível para explorar oportunidades profissionais em empresas de tecnologia que:
-- Valorizem a inovação e o impacto social positivo
-- Acreditem no potencial transformador da tecnologia
-- Promovam a troca de conhecimentos e crescimento contínuo
-- Trabalhem com desenvolvimento de soluções criativas e úteis à sociedade
+Estou em busca de desafios em empresas de tecnologia que:
+- Valorizem inovação real e impacto social.
+- Vejam tecnologia como ferramenta de transformação.
+- Incentivem a troca de conhecimento (ninguém cresce sozinho).
+- Queiram criar soluções criativas e funcionais.
 
 ---
 
 <div align="center">
 
-### 📫 Vamos Conversar?
+### 💬 Bora conversar?
 
-*Aberto a projetos colaborativos, oportunidades de aprendizado e networking profissional.*
+*Sempre aberto a colaborações, freelas ou apenas um networking de qualidade.*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zzruanxx&color=blueviolet&style=flat&label=Profile+Views)
 
