@@ -3,10 +3,10 @@
 # Ruan Batista
 ### Estudante de Sistemas de Computação | Desenvolvedor Full Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-batista-rodrigues-94295b293/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5522935005166)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/zzruanxx)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/rrruanzx/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=neon&animate=pulse&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-batista-rodrigues-94295b293/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=neon&animate=pulse&logo=whatsapp&logoColor=white)](https://wa.me/5522935005166)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=neon&animate=pulse&logo=discord&logoColor=white)](https://discord.com/users/zzruanxx)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=neon&animate=pulse&logo=instagram&logoColor=white)](https://www.instagram.com/rrruanzx/)
 
 </div>
 
@@ -29,35 +29,35 @@ Busco constantemente o aperfeiçoamento pessoal e intelectual através de projet
 ## 🛠️ Stack Tecnológica
 
 ### Linguagens & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+[![Python](https://shields-2-0.vercel.app/badge/Python-3776AB?style=neon&animate=pulse)](https://python.org)
+[![Django](https://shields-2-0.vercel.app/badge/Django-092E20?style=neon&animate=pulse)](https://www.djangoproject.com/)
+[![Flask](https://shields-2-0.vercel.app/badge/Flask-000000?style=neon&animate=pulse)](https://flask.palletsprojects.com/)
+[![React](https://shields-2-0.vercel.app/badge/React-20232A?style=neon&animate=pulse)](https://reactjs.org/)
+[![Flutter](https://shields-2-0.vercel.app/badge/Flutter-02569B?style=neon&animate=pulse)](https://flutter.dev/)
+[![Dart](https://shields-2-0.vercel.app/badge/Dart-0175C2?style=neon&animate=pulse)](https://dart.dev/)
 
 ### Banco de Dados & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+[![PostgreSQL](https://shields-2-0.vercel.app/badge/PostgreSQL-4169E1?style=neon&animate=pulse)](https://www.postgresql.org/)
+[![Docker](https://shields-2-0.vercel.app/badge/Docker-2496ED?style=neon&animate=pulse)](https://www.docker.com/)
+[![Azure](https://shields-2-0.vercel.app/badge/Azure-0078D4?style=neon&animate=pulse)](https://azure.microsoft.com/)
 
 ### Design & Criação
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat&logo=adobexd&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
-![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white)
-![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=flat&logo=adobeindesign&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-EE3124?style=flat&logo=autodesk&logoColor=white)
+[![Figma](https://shields-2-0.vercel.app/badge/Figma-F24E1E?style=neon&animate=pulse)](https://www.figma.com/)
+[![Adobe XD](https://shields-2-0.vercel.app/badge/Adobe_XD-FF61F6?style=neon&animate=pulse)](https://www.adobe.com/products/xd.html)
+[![Photoshop](https://shields-2-0.vercel.app/badge/Photoshop-31A8FF?style=neon&animate=pulse)](https://www.adobe.com/products/photoshop.html)
+[![Illustrator](https://shields-2-0.vercel.app/badge/Illustrator-FF9A00?style=neon&animate=pulse)](https://www.adobe.com/products/illustrator.html)
+[![After Effects](https://shields-2-0.vercel.app/badge/After_Effects-9999FF?style=neon&animate=pulse)](https://www.adobe.com/products/aftereffects.html)
+[![Premiere Pro](https://shields-2-0.vercel.app/badge/Premiere_Pro-9999FF?style=neon&animate=pulse)](https://www.adobe.com/products/premiere.html)
+[![InDesign](https://shields-2-0.vercel.app/badge/InDesign-FF3366?style=neon&animate=pulse)](https://www.adobe.com/products/indesign.html)
+[![AutoCAD](https://shields-2-0.vercel.app/badge/AutoCAD-EE3124?style=neon&animate=pulse)](https://www.autodesk.com/products/autocad/overview)
 
 ### Ferramentas & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=flat&logo=gitkraken&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+[![Git](https://shields-2-0.vercel.app/badge/Git-F05032?style=neon&animate=pulse)](https://git-scm.com/)
+[![GitHub](https://shields-2-0.vercel.app/badge/GitHub-181717?style=neon&animate=pulse)](https://github.com/)
+[![GitKraken](https://shields-2-0.vercel.app/badge/GitKraken-179287?style=neon&animate=pulse)](https://www.gitkraken.com/)
+[![Jira](https://shields-2-0.vercel.app/badge/Jira-0052CC?style=neon&animate=pulse)](https://www.atlassian.com/software/jira)
+[![VS Code](https://shields-2-0.vercel.app/badge/VS_Code-007ACC?style=neon&animate=pulse)](https://code.visualstudio.com/)
+[![Linux](https://shields-2-0.vercel.app/badge/Linux-FCC624?style=neon&animate=pulse)](https://www.linux.org/)
 
 ---
 
