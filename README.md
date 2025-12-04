@@ -24,14 +24,14 @@
 
 ## 👋 Olá, seja bem-vindo(a) !
 
-desenvolvedor full-stack, estudante e entusiasta de computação, atualmente me encontro no 5º período do curso de **Sistemas de Computação ofertado pela UFF**, sou um desenvolvedor full-stack que gosta de colocar a mão na massa e impactar positivamente a vida das pessoas através da tecnologia, design think e soluções inovadoras. Busco resolver problemas reais unindo código limpo com um visual impactante.
+desenvolvedor full-stack, estudante e entusiasta de computação, atualmente me encontro no 5º período do curso de **Sistemas de Computação pela UFF**, sou um desenvolvedor full-stack que gosta de inovar e impactar positivamente a vida das pessoas através da tecnologia, design think e soluções inovadoras. Busco resolver problemas reais unindo código limpo com um visual impactante.
 
-Atualmente, estou mergulhado no ecossistema Python e Cloud, sempre buscando formas de otimizar processos e criar experiências de usuário fluidas, funcionais e inovadoras.
+Atualmente, estou me especializando em desenvolvimento mobile com Flutter e Dart, Python e Azure Cloud, sempre buscando formas de otimizar processos e criar experiências de usuário fluidas, funcionais e inovadoras.
 
 **🔭 Atualmente:**
 - 🐍 Aprofundando em **Python** (Django/Flask) e bancos não-relacionais (**MongoDB**)
 - ☁️ Estudando para a certificação **Microsoft Azure**
-- 📱 Criando aplicações Web e Mobile ágeis
+- 📱 Criando aplicações Web e Mobile ágeis e inovadoras.
 - 🎨 Mantendo a criatividade afiada com Concept Art e Design Think.
 
 ---
