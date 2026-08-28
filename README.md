@@ -10,28 +10,7 @@
 
 <br/>
 
-<!-- SOCIAL BADGES -->
-<a href="https://www.linkedin.com/in/ruanbr/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>&nbsp;
-<a href="https://ruanbatista.tech">
-  <img src="https://img.shields.io/badge/-Portfolio-BD93F9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
-</a>&nbsp;
-<a href="mailto:ruanbatistaemporium@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-FF79C6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>&nbsp;
-<a href="https://github.com/zzruanxx">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>&nbsp;
-<a href="https://wa.me/5522935005166">
-  <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-</a>&nbsp;
-<a href="https://discord.com/users/zzruanxx">
-  <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>&nbsp;
-<a href="https://www.instagram.com/rrruanzx/">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
+
 
 <br/><br/>
 
@@ -46,22 +25,20 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;Sobre Mim
 
-```yaml
-nome: Ruan Batista Rodrigues
-localização: Araruama - Rio de Janeiro, Brasil
-formação: Universidade Federal Fluminense (UFF) - Sistemas de Computação
-cargo_atual: Jr Data Engineer & Software Developer
-foco: Python | SQL & NoSQL | AWS Cloud | Machine Learning
-interesses:
+yaml
+Ruan Batista Rodrigues
+Araruama - Rio de Janeiro, Brasil
+Universidade Federal Fluminense (UFF) - Sistemas de Computação
+Jr Data Engineer & Software Developer
+Python | SQL & NoSQL | AWS Cloud | Machine Learning
+
   - Engenharia de Dados & Pipelines ETL
   - Cloud Computing (AWS)
   - Inteligência Artificial & Machine Learning
   - Desenvolvimento Full-Stack
   - Cybersecurity
-idiomas:
-  - Português (Nativo)
-  - Inglês (B1 - Intermediário)
-```
+
+
 
 > 💡 *Desenvolvedor Full-Stack e Engenheiro de Dados em formação, graduando em **Sistemas de Computação pela UFF** com previsão de conclusão em Julho de 2028 (40% das disciplinas já concluídas por aproveitamento acadêmico). Possuo uma transição de carreira sólida do mercado imobiliário, onde atuei por 5+ anos, desenvolvendo habilidades excepcionais em **negociação**, **gerenciamento de conflitos**, **inteligência emocional** e **análise de dados de mercado**.*
 
