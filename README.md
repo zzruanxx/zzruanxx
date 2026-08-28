@@ -224,16 +224,7 @@ Calculadora de álgebra linear com **visualização 2D/3D**, resolução de sist
 | 🔒 **Segurança da Informação** | Fundação Cecierj | 180h |
 | 📊 **Ciência de Dados** | Fundação Cecierj | 180h |
 | 🎨 **Curso Extensivo CG** (Design & Adobe Suite) | Redzero (Autodesk/Adobe ATC) | 346h |
-| 🇬🇧 **English B1** (4 módulos) | British Council | 96h |
-| ☁️ **Formação AWS** (Lightsail, EC2, S3, VPC, RDS, DynamoDB) | Alura | 47h |
-| 🛠 **Formação DevOps** (Docker, Ansible, Terraform, CI/CD) | Alura | 70h |
-| 🌐 **Formação Redes de Computadores** | Alura | 37h |
-| 🐍 **Formação Python com OOP** | Alura | 25h |
-| 🌐 **Formação HTML & CSS para Projetos Web** | Alura | 53h |
-| 📈 **Monitoramento** (Prometheus, Grafana, Alertmanager) | Alura | 12h |
-| 🔄 **CI/CD Pipeline Docker** (GitHub Actions) | Alura | 14h |
-| 🔍 **Pentest: Vulnerabilidades Web** | Alura | 10h |
-| 🤖 **IA Generativa: Midjourney & ChatGPT** | Alura | 8h |
+| 🇬🇧 **English B1 - British Council** (4 módulos) | British Council | 96h |
 | 📊 **Power BI** | UCAM | ✅ |
 | 📋 **Scrum** | UCAM | ✅ |
 | ⚡ **NLW Unite - DevOps** | Rocketseat | 5h |
