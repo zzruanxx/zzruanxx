@@ -1,9 +1,7 @@
+<!-- HEADER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ruan%20Batista&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Jr%20Data%20Engineer%20%26%20Software%20Developer&descSize=18&descAlignY=55&descColor=c9d1d9" width="100%"/>
+
 <div align="center">
-
-<!-- HERO BANNER -->
-<img src="./assets/images/hero_banner.jpg" alt="Ruan Batista - Jr Data Engineer & Software Developer" width="100%"/>
-
-<br/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
@@ -43,8 +41,8 @@
 
 </div>
 
-<!-- DIVIDER -->
-<img src="./assets/images/divider_line.jpg" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;Sobre Mim
 
@@ -75,16 +73,10 @@ idiomas:
 - 🤖 Cursando **Machine Learning** pela DeepLearning.AI & Stanford Online
 - 📊 Especializando em **Engenharia de Dados** pela IBM
 
-<!-- DIVIDER -->
-<img src="./assets/images/divider_line.jpg" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack
-
-<div align="center">
-  <img src="./assets/images/skills_section.jpg" alt="Tech Stack" width="80%"/>
-</div>
-
-<br/>
 
 <div align="center">
 
@@ -137,16 +129,10 @@ idiomas:
 
 </div>
 
-<!-- DIVIDER -->
-<img src="./assets/images/divider_line.jpg" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 ## 🚀 Projetos em Destaque
-
-<div align="center">
-  <img src="./assets/images/projects_section.jpg" alt="Projetos em Destaque" width="80%"/>
-</div>
-
-<br/>
 
 <div align="center">
 <table>
@@ -189,16 +175,10 @@ idiomas:
 </table>
 </div>
 
-<!-- DIVIDER -->
-<img src="./assets/images/divider_line.jpg" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 ## 📜 Certificações & Especializações
-
-<div align="center">
-  <img src="./assets/images/certifications_section.jpg" alt="Certificações" width="80%"/>
-</div>
-
-<br/>
 
 <details>
 <summary><b>🔄 Em Andamento</b> — <i>clique para expandir</i></summary>
@@ -245,21 +225,19 @@ idiomas:
 
 </details>
 
-<!-- DIVIDER -->
-<img src="./assets/images/divider_line.jpg" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 ## 🎓 Formação Acadêmica
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  🎓  UNIVERSIDADE FEDERAL FLUMINENSE (UFF)                     ║
-║  📚  Bacharelado em Sistemas de Computação                     ║
-║  📅  Previsão de Conclusão: Julho de 2028                      ║
-║  ✅  40% das disciplinas concluídas (aproveitamento acadêmico) ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+| | |
+|:---|:---|
+| 🎓 **Instituição** | UNIVERSIDADE FEDERAL FLUMINENSE (UFF) |
+| 📚 **Curso** | Bacharelado em Sistemas de Computação |
+| 📅 **Previsão de Conclusão** | Julho de 2028 |
+| ✅ **Progresso** | 40% das disciplinas concluídas (aproveitamento acadêmico) |
 
 </div>
 
@@ -281,84 +259,87 @@ idiomas:
 
 </details>
 
-<!-- DIVIDER -->
-<img src="./assets/images/divider_line.jpg" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 ## 🧠 Soft Skills
 
 <div align="center">
 
-```
-🎯 Negociação & Fechamento        💬 Comunicação Assertiva
-🧘 Inteligência Emocional          ⚖️ Mediação de Conflitos
-📊 Análise de Dados & BI           🤝 Relacionamento Interpessoal
-📋 Autogerenciamento                🚀 Foco em Resultados
-💡 Resolução de Problemas          📈 Visão de Negócios
-```
+| Habilidade | Habilidade |
+|:---|:---|
+| 🎯 Negociação & Fechamento | 💬 Comunicação Assertiva |
+| 🧘 Inteligência Emocional | ⚖️ Mediação de Conflitos |
+| 📊 Análise de Dados & BI | 🤝 Relacionamento Interpessoal |
+| 📋 Autogerenciamento | 🚀 Foco em Resultados |
+| 💡 Resolução de Problemas | 📈 Visão de Negócios |
 
 </div>
 
 > 🏢 *+5 anos de experiência no mercado imobiliário como Consultor Credenciado, com 80+ operações de sucesso, gestão de conflitos, documentação complexa e expertise em CRMs (HubSpot, Salesforce) e BI (Power BI).*
 
-<!-- DIVIDER -->
-<img src="./assets/images/divider_line.jpg" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 ## 📈 GitHub Analytics
 
 <div align="center">
   <a href="https://github.com/zzruanxx">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=zzruanxx&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=8BE9FD&text_color=C9D1D9" alt="Estatísticas do Ruan" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=zzruanxx&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do Ruan" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/zzruanxx">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzruanxx&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=C9D1D9" alt="Linguagens Mais Usadas" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzruanxx&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=zzruanxx&theme=radical&hide_border=true&background=0D1117&ring=BD93F9&fire=FF79C6&currStreakLabel=8BE9FD" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=zzruanxx&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zzruanxx&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=BD93F9&line=8BE9FD&point=FF79C6" width="95%" alt="Gráfico de Atividade"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zzruanxx&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Gráfico de Atividade"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zzruanxx&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Troféus"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=zzruanxx&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Troféus"/>
 </div>
 
 ##
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zzruanxx/zzruanxx/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zzruanxx/zzruanxx/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zzruanxx/zzruanxx/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/zzruanxx/zzruanxx/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
-<!-- DIVIDER -->
-<img src="./assets/images/divider_line.jpg" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="./assets/images/footer_contact.jpg" alt="Vamos Conectar?" width="60%"/>
 
-  <br/><br/>
+### 💬 Vamos Conectar?
 
-  <a href="https://www.linkedin.com/in/ruanbr/"><img src="https://img.shields.io/badge/-Ruan_Batista-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="https://ruanbatista.tech"><img src="https://img.shields.io/badge/-ruanbatista.tech-BD93F9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>&nbsp;
-  <a href="mailto:ruanbatistaemporium@gmail.com"><img src="https://img.shields.io/badge/-Email-FF79C6?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-  <a href="https://github.com/zzruanxx"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ruanbr/"><img src="https://img.shields.io/badge/-Ruan_Batista-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://ruanbatista.tech"><img src="https://img.shields.io/badge/-ruanbatista.tech-BD93F9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>&nbsp;
+<a href="mailto:ruanbatistaemporium@gmail.com"><img src="https://img.shields.io/badge/-Email-FF79C6?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/zzruanxx"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-  <br/><br/>
+<br/><br/>
 
-  *💬 Sempre aberto a colaborações, desafios técnicos e networking de qualidade.*
+*Sempre aberto a colaborações, desafios técnicos e networking de qualidade.* 🚀
 
-  <br/>
+<br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
