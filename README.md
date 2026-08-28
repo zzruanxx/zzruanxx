@@ -12,6 +12,7 @@
 
 <br/>
 
+<<<<<<< HEAD
 <!-- SOCIAL BADGES -->
 <a href="https://www.linkedin.com/in/ruanbr/">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -34,6 +35,9 @@
 <a href="https://www.instagram.com/rrruanzx/">
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
+=======
+
+>>>>>>> ec6a1d4f592d763185416bf34b9ef572b2bdb5fd
 
 <br/><br/>
 
@@ -46,9 +50,26 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">&nbsp; Sobre Mim
 
+<<<<<<< HEAD
 <div align="center">
   <img src="./assets/img/about_me.jpg" alt="Sobre Mim" width="55%"/>
 </div>
+=======
+yaml
+Ruan Batista Rodrigues
+Araruama - Rio de Janeiro, Brasil
+Universidade Federal Fluminense (UFF) - Sistemas de Computação
+Jr Data Engineer & Software Developer
+Python | SQL & NoSQL | AWS Cloud | Machine Learning
+
+  - Engenharia de Dados & Pipelines ETL
+  - Cloud Computing (AWS)
+  - Inteligência Artificial & Machine Learning
+  - Desenvolvimento Full-Stack
+  - Cybersecurity
+
+
+>>>>>>> ec6a1d4f592d763185416bf34b9ef572b2bdb5fd
 
 <br/>
 
