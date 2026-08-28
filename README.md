@@ -1,11 +1,13 @@
-<!-- HEADER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ruan%20Batista&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Jr%20Data%20Engineer%20%26%20Software%20Developer&descSize=18&descAlignY=55&descColor=c9d1d9" width="100%"/>
+<!-- HERO BANNER -->
+<div align="center">
+  <img src="./assets/img/hero_banner.jpg" alt="Ruan Batista - Jr Data Engineer & Software Developer" width="100%"/>
+</div>
 
 <div align="center">
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%9A%80+Jr+Data+Engineer+%26+Software+Developer;%E2%98%81%EF%B8%8F+Python+%7C+SQL+%26+NoSQL+%7C+AWS+Cloud;%F0%9F%8E%93+UFF+-+Sistemas+de+Computa%C3%A7%C3%A3o" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=%F0%9F%9A%80+Python+%7C+SQL+%26+NoSQL+%7C+AWS+Cloud;%F0%9F%8E%93+UFF+-+Sistemas+de+Computa%C3%A7%C3%A3o;%F0%9F%94%A7+Data+Engineering+%7C+Machine+Learning" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -15,10 +17,10 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>&nbsp;
 <a href="https://ruanbatista.tech">
-  <img src="https://img.shields.io/badge/-Portfolio-BD93F9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+  <img src="https://img.shields.io/badge/-Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
 </a>&nbsp;
 <a href="mailto:ruanbatistaemporium@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-FF79C6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/-Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>&nbsp;
 <a href="https://github.com/zzruanxx">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -35,48 +37,39 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=zzruanxx&color=BD93F9&style=flat-square&label=Visitantes)
-&nbsp;&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/zzruanxx?style=flat-square&color=8BE9FD&label=Seguidores)
+![Profile Views](https://komarev.com/ghpvc/?username=zzruanxx&color=7C3AED&style=flat-square&label=Visitantes+do+Perfil)&nbsp;&nbsp;![GitHub followers](https://img.shields.io/github/followers/zzruanxx?style=flat-square&color=2563EB&label=Seguidores)
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+<!-- ────────────────────────────────────────────────── -->
+<img src="./assets/img/divider.jpg" width="100%" height="6"/>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;Sobre Mim
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">&nbsp; Sobre Mim
 
-```yaml
-nome: Ruan Batista Rodrigues
-localização: Araruama - Rio de Janeiro, Brasil
-formação: Universidade Federal Fluminense (UFF) - Sistemas de Computação
-cargo_atual: Jr Data Engineer & Software Developer
-foco: Python | SQL & NoSQL | AWS Cloud | Machine Learning
-interesses:
-  - Engenharia de Dados & Pipelines ETL
-  - Cloud Computing (AWS)
-  - Inteligência Artificial & Machine Learning
-  - Desenvolvimento Full-Stack
-  - Cybersecurity
-idiomas:
-  - Português (Nativo)
-  - Inglês (B1 - Intermediário)
-```
+<div align="center">
+  <img src="./assets/img/about_me.jpg" alt="Sobre Mim" width="55%"/>
+</div>
 
-> 💡 *Desenvolvedor Full-Stack e Engenheiro de Dados em formação, graduando em **Sistemas de Computação pela UFF** com previsão de conclusão em Julho de 2028 (40% das disciplinas já concluídas por aproveitamento acadêmico). Possuo uma transição de carreira sólida do mercado imobiliário, onde atuei por 5+ anos, desenvolvendo habilidades excepcionais em **negociação**, **gerenciamento de conflitos**, **inteligência emocional** e **análise de dados de mercado**.*
+<br/>
 
-### 🔭 Foco Atual
+> 💡 *Desenvolvedor Full-Stack e Engenheiro de Dados em formação, graduando em **Sistemas de Computação pela UNIVERSIDADE FEDERAL FLUMINENSE (UFF)** com previsão de conclusão em Julho de 2028. Possuo 40% das disciplinas já concluídas por aproveitamento acadêmico. Minha transição de carreira do mercado imobiliário (5+ anos) me deu habilidades excepcionais em **negociação**, **gerenciamento de conflitos**, **inteligência emocional** e **análise de dados de mercado**.*
 
-- 🐍 Aprofundando em **Python** para Data Engineering & Machine Learning
-- ☁️ Preparando para certificação **AWS AI Practitioner** com labs práticos
-- 🔐 Finalizando especialização em **Cybersecurity** pelo Google
-- 🤖 Cursando **Machine Learning** pela DeepLearning.AI & Stanford Online
-- 📊 Especializando em **Engenharia de Dados** pela IBM
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+<div align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack
+| | |
+|:---:|:---:|
+| 🐍 Aprofundando em **Python** para Data Engineering & ML | ☁️ Preparando para certificação **AWS AI Practitioner** |
+| 🔐 Especializando em **Cybersecurity** pelo Google | 🤖 Cursando **Machine Learning** — Stanford & DeepLearning.AI |
+| 📊 **Engenharia de Dados** pela IBM (Coursera) | 💼 **Autogerenciamento** — Harvard Business Impact |
+
+</div>
+
+<!-- ────────────────────────────────────────────────── -->
+<img src="./assets/img/divider.jpg" width="100%" height="6"/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">&nbsp; Tech Stack
 
 <div align="center">
 
@@ -129,59 +122,84 @@ idiomas:
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+<!-- ────────────────────────────────────────────────── -->
+<img src="./assets/img/divider.jpg" width="100%" height="6"/>
 
 ## 🚀 Projetos em Destaque
 
 <div align="center">
+  <img src="./assets/img/projects.jpg" alt="Projetos em Destaque" width="65%"/>
+</div>
+
+<br/>
+
+<div align="center">
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🏠 [Gestor do Ateliê Lúcia](https://github.com/zzruanxx)
-<img src="https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
 
-> Ferramenta completa de gestão financeira para artesã com **dashboard de KPIs**, calculadora de preços multi-canal, gestão de estoque e simulador de margem.
+![Next.js](https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+Ferramenta completa de gestão financeira para artesã com **dashboard de KPIs**, calculadora de preços multi-canal, gestão de estoque e simulador de margem.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🏡 [RealStateHouseFinder](https://github.com/zzruanxx)
-<img src="https://img.shields.io/badge/Vue.js_3-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
 
-> Portal imobiliário profissional com **busca avançada**, admin dashboard, lightbox de fotos, sistema de autenticação e integração direta com WhatsApp.
+![Vue.js](https://img.shields.io/badge/Vue.js_3-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+Portal imobiliário com **busca avançada**, admin dashboard, lightbox de fotos, autenticação e integração direta com WhatsApp.
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📐 [Verificador de Subespaços](https://github.com/zzruanxx)
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 
-> Verificador interativo para validar subespaços vetoriais com **visualização geométrica 2D/3D**, explicação passo-a-passo e gerador de exemplos.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+Verificador interativo para validar subespaços vetoriais com **visualização geométrica 2D/3D**, explicação passo-a-passo e gerador de exemplos.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧮 [MatrixPy](https://github.com/zzruanxx)
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/SymPy-3B5526?style=flat-square&logo=sympy&logoColor=white"/>
 
-> Calculadora completa de álgebra linear com **visualização 2D/3D**, resolução de sistemas lineares e cálculos matriciais em tempo real.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
+![SymPy](https://img.shields.io/badge/SymPy-3B5526?style=flat-square&logo=sympy&logoColor=white)
+
+Calculadora de álgebra linear com **visualização 2D/3D**, resolução de sistemas lineares e cálculos matriciais em tempo real.
 
 </td>
 </tr>
 </table>
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+<!-- ────────────────────────────────────────────────── -->
+<img src="./assets/img/divider.jpg" width="100%" height="6"/>
 
 ## 📜 Certificações & Especializações
 
-<details>
-<summary><b>🔄 Em Andamento</b> — <i>clique para expandir</i></summary>
+<div align="center">
+  <img src="./assets/img/certifications.jpg" alt="Certificações" width="65%"/>
+</div>
+
+<br/>
+
+<details open>
+<summary><b>🔄 Em Andamento</b></summary>
 <br/>
 
 | Certificação | Instituição | Status |
@@ -225,8 +243,8 @@ idiomas:
 
 </details>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+<!-- ────────────────────────────────────────────────── -->
+<img src="./assets/img/divider.jpg" width="100%" height="6"/>
 
 ## 🎓 Formação Acadêmica
 
@@ -234,7 +252,7 @@ idiomas:
 
 | | |
 |:---|:---|
-| 🎓 **Instituição** | UNIVERSIDADE FEDERAL FLUMINENSE (UFF) |
+| 🏛️ **Instituição** | **UNIVERSIDADE FEDERAL FLUMINENSE (UFF)** |
 | 📚 **Curso** | Bacharelado em Sistemas de Computação |
 | 📅 **Previsão de Conclusão** | Julho de 2028 |
 | ✅ **Progresso** | 40% das disciplinas concluídas (aproveitamento acadêmico) |
@@ -259,10 +277,10 @@ idiomas:
 
 </details>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+<!-- ────────────────────────────────────────────────── -->
+<img src="./assets/img/divider.jpg" width="100%" height="6"/>
 
-## 🧠 Soft Skills
+## 🧠 Soft Skills & Experiência
 
 <div align="center">
 
@@ -276,18 +294,17 @@ idiomas:
 
 </div>
 
-> 🏢 *+5 anos de experiência no mercado imobiliário como Consultor Credenciado, com 80+ operações de sucesso, gestão de conflitos, documentação complexa e expertise em CRMs (HubSpot, Salesforce) e BI (Power BI).*
+> 🏢 *+5 anos no mercado imobiliário como Consultor Credenciado — 80+ operações de sucesso, gestão de conflitos, documentação complexa e expertise em CRMs (HubSpot, Salesforce) e BI (Power BI).*
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+<!-- ────────────────────────────────────────────────── -->
+<img src="./assets/img/divider.jpg" width="100%" height="6"/>
 
 ## 📈 GitHub Analytics
 
 <div align="center">
   <a href="https://github.com/zzruanxx">
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=zzruanxx&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do Ruan" />
-  </a>
-  &nbsp;&nbsp;
+  </a>&nbsp;&nbsp;
   <a href="https://github.com/zzruanxx">
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzruanxx&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" />
   </a>
@@ -311,7 +328,7 @@ idiomas:
   <img src="https://github-profile-trophy.vercel.app/?username=zzruanxx&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Troféus"/>
 </div>
 
-##
+<br/>
 
 <div align="center">
   <picture>
@@ -321,25 +338,24 @@ idiomas:
   </picture>
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+<!-- ────────────────────────────────────────────────── -->
+<img src="./assets/img/divider.jpg" width="100%" height="6"/>
 
-<!-- FOOTER -->
+## 💬 Vamos Conectar?
+
 <div align="center">
-
-### 💬 Vamos Conectar?
-
-<a href="https://www.linkedin.com/in/ruanbr/"><img src="https://img.shields.io/badge/-Ruan_Batista-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="https://ruanbatista.tech"><img src="https://img.shields.io/badge/-ruanbatista.tech-BD93F9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>&nbsp;
-<a href="mailto:ruanbatistaemporium@gmail.com"><img src="https://img.shields.io/badge/-Email-FF79C6?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-<a href="https://github.com/zzruanxx"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br/><br/>
 
 *Sempre aberto a colaborações, desafios técnicos e networking de qualidade.* 🚀
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<a href="https://www.linkedin.com/in/ruanbr/"><img src="https://img.shields.io/badge/-Ruan_Batista-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://ruanbatista.tech"><img src="https://img.shields.io/badge/-ruanbatista.tech-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>&nbsp;
+<a href="mailto:ruanbatistaemporium@gmail.com"><img src="https://img.shields.io/badge/-Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/zzruanxx"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
