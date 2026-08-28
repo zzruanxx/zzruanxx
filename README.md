@@ -37,7 +37,6 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=zzruanxx&color=7C3AED&style=flat-square&label=Visitantes+do+Perfil)&nbsp;&nbsp;![GitHub followers](https://img.shields.io/github/followers/zzruanxx?style=flat-square&color=2563EB&label=Seguidores)
 
 </div>
 
@@ -73,7 +72,7 @@
 
 <div align="center">
 
-#### 💻 Linguagens & Frameworks
+#### 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -89,7 +88,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### ☁️ Cloud, Dados & Infraestrutura
+#### 
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -104,14 +103,14 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-#### 📊 Dados & BI
+#### 
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-#### ⚙️ Ferramentas & Workflow
+#### 
 
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -125,7 +124,7 @@
 <!-- ────────────────────────────────────────────────── -->
 <img src="./assets/img/divider.jpg" width="100%" height="6"/>
 
-## 🚀 Projetos em Destaque
+## 🚀 
 
 <div align="center">
   <img src="./assets/img/projects.jpg" alt="Projetos em Destaque" width="65%"/>
@@ -237,7 +236,7 @@ Calculadora de álgebra linear com **visualização 2D/3D**, resolução de sist
 <!-- ────────────────────────────────────────────────── -->
 <img src="./assets/img/divider.jpg" width="100%" height="6"/>
 
-## 🎓 Formação Acadêmica
+## 
 
 <div align="center">
 
@@ -256,26 +255,26 @@ Calculadora de álgebra linear com **visualização 2D/3D**, resolução de sist
 
 | Código | Disciplina | Status |
 |:---|:---|:---:|
-| EAD05001 | Introdução à Informática | ✅ |
-| EAD05002 | Construção de Página Web | ✅ |
-| EAD05003 | Inglês Instrumental | ✅ |
-| EAD05005 | Projeto e Desenvolvimento de Algoritmos | ✅ |
-| EAD05007 | Estrutura de Dados | ✅ |
-| EAD05010 | Organização de Computadores | ✅ |
-| EAD05011 | Modelagem de Informação | ✅ |
-| EAD05016 | Sistemas Operacionais | ✅ |
-| EAD05019 | Engenharia de Software | ✅ |
+| Introdução à Informática | ✅ |
+| Construção de Página Web | ✅ |
+| Inglês Instrumental | ✅ |
+| Projeto e Desenvolvimento de Algoritmos | ✅ |
+| Estrutura de Dados | ✅ |
+| Organização de Computadores | ✅ |
+| Modelagem de Informação | ✅ |
+| Sistemas Operacionais | ✅ |
+| Engenharia de Software | ✅ |
 
 </details>
 
 <!-- ────────────────────────────────────────────────── -->
 <img src="./assets/img/divider.jpg" width="100%" height="6"/>
 
-## 🧠 Soft Skills & Experiência
+## 
 
 <div align="center">
 
-| Habilidade | Habilidade |
+|  |
 |:---|:---|
 | 🎯 Negociação & Fechamento | 💬 Comunicação Assertiva |
 | 🧘 Inteligência Emocional | ⚖️ Mediação de Conflitos |
@@ -290,7 +289,7 @@ Calculadora de álgebra linear com **visualização 2D/3D**, resolução de sist
 <!-- ────────────────────────────────────────────────── -->
 <img src="./assets/img/divider.jpg" width="100%" height="6"/>
 
-## 📈 GitHub Analytics
+## 
 
 <div align="center">
   <a href="https://github.com/zzruanxx">
@@ -332,7 +331,7 @@ Calculadora de álgebra linear com **visualização 2D/3D**, resolução de sist
 <!-- ────────────────────────────────────────────────── -->
 <img src="./assets/img/divider.jpg" width="100%" height="6"/>
 
-## 💬 Vamos Conectar?
+##
 
 <div align="center">
 
