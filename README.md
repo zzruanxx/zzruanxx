@@ -34,7 +34,7 @@
 
 Tenho interesse genuíno por **engenharia de software** e **engenharia de dados**, atualmente estou me Graduando em **Sistemas de Computação pela UFF** (5º período). Busco formas de otimizar minha rotina e das pessoas ao meu redor  combinando automação, design thinking e soluções criativas que resolvem problemas reais.
 
-Nos últimos projetos tenho trabalhado com aplicações full-stack (Next.js, Vue.js, Flask), modelagem de dados, pipelines e automações em nuvem. Tenho habilidades na conversão de necessidades de negócio em soluções de software e soluções de dados, experiência prática com análise de dados (Power BI, Excel), CRMs (HubSpot, Salesforce), negociação e gestão de conflitos — habilidades que pude obter atuando como administrador imobiliário ao longo de cinco anos.
+Nos últimos projetos tenho trabalhado com aplicações full-stack (Next.js, Vue.js, Flask), modelagem de dados, pipelines e automações em nuvem. Tenho habilidades na conversão de necessidades de negócio em soluções de software e soluções de dados, experiência prática com análise de dados (Power BI, Excel), CRMs (HubSpot, Salesforce), negociação e gestão de conflitos — habilidades que pude obter atuando como administrador e consultor imobiliário ao longo de cinco anos.
 
 - 🎓 **Sistemas de Computação — UFF** · 5º período
 - 🎯 Buscando certificação **AWS AI Practitioner** e aprofundando em dados e cibersegurança
