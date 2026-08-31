@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,30&height=180&section=header&text=Ruan%20Batista&fontSize=52&fontAlignY=36&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20Data%20Engineer%20%C2%B7%20&descAlignY=58&descSize=18&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,30&height=180&section=header&text=Ruan%20Batista&fontSize=52&fontAlignY=36&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20Data%20Engineer%20%C2%B7%20"/>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=9333EA&center=true&vCenter=true&width=640&lines=%F0%9F%9B%A0%EF%B8%8F+Python+%C2%B7+SQL+%C2%B7+AWS+%C2%B7+TypeScript;%F0%9F%93%8A+Engenharia+de+Dados+%26+Full-Stack;%F0%9F%94%A7+Automação+%2B+Design+Thinking+%3D+soluções+reais;%F0%9F%8E%93+Sistemas+de+Computação+%E2%80%94+UFF+%7C+5%C2%BA+per%C3%ADodo" alt="Typing SVG" />
