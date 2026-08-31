@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,30&height=180&section=header&text=Ruan%20Batista&fontSize=52&fontAlignY=36&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20Data%20Engineer%20%C2%B7%20UFF&descAlignY=58&descSize=18&fontColor=ffffff" width="100%"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=9333EA&center=true&vCenter=true&width=640&lines=%E2%98%95+Caf%C3%A9+%2B+dados+%2B+design+thinking+%3D+solu%C3%A7%C3%B5es+reais;%F0%9F%8F%A0%E2%9E%A1%EF%B8%8F%F0%9F%92%BB+Do+mercado+imobili%C3%A1rio+ao+c%C3%B3digo;%F0%9F%94%A7+Automatizando+rotinas%2C+simplificando+vidas;%F0%9F%8E%93+Sistemas+de+Computa%C3%A7%C3%A3o+%E2%80%94+UFF+%7C+5%C2%BA+per%C3%ADodo" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=9333EA&center=true&vCenter=true&width=640&lines=%F0%9F%9B%A0%EF%B8%8F+Python+%C2%B7+SQL+%C2%B7+AWS+%C2%B7+TypeScript;%F0%9F%93%8A+Engenharia+de+Dados+%26+Full-Stack;%F0%9F%94%A7+Automação+%2B+Design+Thinking+%3D+soluções+reais;%F0%9F%8E%93+Sistemas+de+Computação+%E2%80%94+UFF+%7C+5%C2%BA+per%C3%ADodo" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -32,16 +32,13 @@
 
 ### 👨‍💻 Sobre Mim
 
-> *"Passei 5 anos entendendo como pessoas negociam, decidem e confiam. Agora uso engenharia de software e dados para resolver os mesmos problemas — só que em escala."*
+Graduando em **Sistemas de Computação pela UFF** (5º período), com interesse genuíno por **engenharia de software** e **engenharia de dados**. Gosto de buscar formas de otimizar rotinas — tanto as minhas quanto as das pessoas ao meu redor — combinando automação, design thinking e soluções criativas que resolvem problemas reais.
 
-Tenho interesse genuíno por **engenharia de software** e **engenharia de dados**. Minha motivação diária é otimizar a minha rotina e a das pessoas ao meu redor com soluções inovadoras e criativas, combinando **automação** e **design thinking** para transformar problemas reais em software funcional.
+Nos últimos projetos tenho trabalhado com aplicações full-stack (Next.js, Vue.js, Flask), modelagem de dados, pipelines e automações em nuvem. Também trago uma bagagem de 5 anos no mercado imobiliário, o que me deu experiência prática com análise de dados (Power BI, Excel), CRMs (HubSpot, Salesforce), negociação e gestão de conflitos — habilidades que complementam bem o lado técnico na hora de entender requisitos e traduzir necessidades de negócio em soluções de dados.
 
-- 🎓 **5º período de Sistemas de Computação — UFF** (Universidade Federal Fluminense)
-- 🏢 **+5 anos no mercado imobiliário** como administrador de imóveis e consultor — vendas, negociação, gestão de clientes e resolução de conflitos entre contratantes (reduzindo ingressos judiciais e mitigando danos materiais)
-- 📊 **Visão analítica de negócios** — experiência prática com Power BI, Excel e CRMs (HubSpot, Salesforce) para transformar dados de mercado em dashboards, indicadores e insights que apoiam decisões comerciais e operacionais
-- 🎯 **Próximo objetivo:** Certificação **AWS AI Practitioner** e aprofundamento em dados e cibersegurança
-- 🤝 **Disponível** para conversas sobre oportunidades de emprego e projetos inovadores
-- ⚡ **Fun fact:** Consigo traduzir "dor de negócio" em requisito técnico mais rápido do que a maioria — herança de quem já ouviu centenas de clientes do mercado imobiliário
+- 🎓 **Sistemas de Computação — UFF** · 5º período
+- 🎯 Buscando certificação **AWS AI Practitioner** e aprofundando em dados e cibersegurança
+- 🤝 Disponível para oportunidades de emprego e projetos inovadores
 
 <br/>
 
@@ -96,7 +93,7 @@ Tenho interesse genuíno por **engenharia de software** e **engenharia de dados*
 <td width="50%" valign="top">
 
 #### 🏡 [RealStateHouseFinder](https://github.com/zzruanxx)
-*Portal imobiliário inteligente — nascido da experiência real no setor.*
+*Portal imobiliário com busca avançada, painel admin e integração WhatsApp.*
 
 - 🔍 Busca avançada com filtros dinâmicos
 - 📸 Painel admin, lightbox e integração WhatsApp
@@ -136,16 +133,13 @@ Tenho interesse genuíno por **engenharia de software** e **engenharia de dados*
 
 ---
 
-### 🏢 Experiência Profissional
+<details>
+<summary>🏢 <b>Background: Mercado Imobiliário</b> (5 anos)</summary>
+<br/>
 
-> **Administrador de Imóveis & Consultor Imobiliário** · *5+ anos*
+Antes da computação, atuei como administrador de imóveis e consultor imobiliário. Essa experiência me deu vivência prática em análise de dados de mercado (Power BI, Excel), gestão de CRMs (HubSpot, Salesforce), precificação, funil de vendas e resolução de conflitos entre contratantes — reduzindo ingressos judiciais e mitigando danos. Hoje essas habilidades me ajudam a entender requisitos de negócio e transformar necessidades reais em soluções técnicas.
 
-Atuação em vendas, negociação e gestão de carteira de clientes, com destaque para:
-
-- 📊 Criação de dashboards e indicadores com **Power BI** e **Excel** para decisões comerciais
-- 🤝 Gestão de CRMs (**HubSpot**, **Salesforce**) — análise de mercado, precificação e funil de vendas
-- ⚖️ Resolução de conflitos entre contratantes — redução de ingressos judiciais e mitigação de danos
-- 💡 Capacidade de traduzir dores de negócio em requisitos de dados e relatórios acionáveis
+</details>
 
 <br/>
 
