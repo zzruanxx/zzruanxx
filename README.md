@@ -30,7 +30,7 @@
 
 ---
 
-### 👨‍💻 Sobre Mim
+### 👨‍💻 Um pouco da minha trajetória
 
 Tenho interesse genuíno por **engenharia de software** e **engenharia de dados**, atualmente estou me Graduando em **Sistemas de Computação pela UFF** (5º período). Busco formas de otimizar minha rotina e das pessoas ao meu redor  combinando automação, design thinking e soluções criativas que resolvem problemas reais.
 
@@ -44,7 +44,7 @@ Nos últimos projetos tenho trabalhado com aplicações full-stack (Next.js, Vue
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Algumas das habilidades que utilizo no dia a dia
 
 <div align="center">
 
@@ -74,7 +74,7 @@ Nos últimos projetos tenho trabalhado com aplicações full-stack (Next.js, Vue
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🚀 Alguns projetos desenvolvidos por mim
 
 <div align="center">
 <table>
@@ -145,7 +145,7 @@ Antes da computação, atuei como administrador de imóveis e consultor imobili�
 
 ---
 
-### 📜 Certificações & Aprendizado Contínuo
+### 📜 Certificações & Aprendizado
 
 <details open>
 <summary><b>🔄 Em Andamento</b></summary>
@@ -175,7 +175,7 @@ Antes da computação, atuei como administrador de imóveis e consultor imobili�
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Estatísticas do Github
 
 <div align="center">
 
@@ -203,7 +203,7 @@ Antes da computação, atuei como administrador de imóveis e consultor imobili�
 
 <div align="center">
 
-  ### 💬 Vamos conversar?
+  ### 💬 Vamos nos conectar?
 
   Estou aberto a **oportunidades de emprego**, **colaborações em projetos** e conversas sobre tecnologia, dados e inovação.
 
