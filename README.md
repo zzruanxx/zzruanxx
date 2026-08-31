@@ -1,16 +1,13 @@
 <div align="center">
 
-  <!-- CAPA MINIMALISTA MODERNA -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,30&height=180&section=header&text=Ruan%20Batista&fontSize=52&fontAlignY=36&animation=fadeIn&desc=Engenharia%20de%20Dados%20%7C%20Full-Stack%20%7C%20UFF&descAlignY=58&descSize=20&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,30&height=180&section=header&text=Ruan%20Batista&fontSize=52&fontAlignY=36&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20Data%20Engineer%20%C2%B7%20UFF&descAlignY=58&descSize=18&fontColor=ffffff" width="100%"/>
 
-  <!-- TYPING SVG INTERATIVO & DIVERTIDO -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=9333EA&center=true&vCenter=true&width=620&lines=%E2%98%95+Transformando+caf%C3%A9+e+dados+em+c%C3%B3digo+limpo;%F0%9F%8F%A0%E2%9E%A1%EF%B8%8F%F0%9F%92%BB+De+corretor+de+im%C3%B3veis+a+desenvolvedor+de+software;%F0%9F%9A%80+Python+%7C+SQL+%7C+AWS+%7C+TypeScript;%F0%9F%93%8A+Construindo+pipelines+e+solu%C3%A7%C3%B5es+escal%C3%A1veis" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=9333EA&center=true&vCenter=true&width=640&lines=%E2%98%95+Caf%C3%A9+%2B+dados+%2B+design+thinking+%3D+solu%C3%A7%C3%B5es+reais;%F0%9F%8F%A0%E2%9E%A1%EF%B8%8F%F0%9F%92%BB+Do+mercado+imobili%C3%A1rio+ao+c%C3%B3digo;%F0%9F%94%A7+Automatizando+rotinas%2C+simplificando+vidas;%F0%9F%8E%93+Sistemas+de+Computa%C3%A7%C3%A3o+%E2%80%94+UFF+%7C+5%C2%BA+per%C3%ADodo" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- LINKS SOCIAIS (MINIMALISTA / BADGES DIRETAS) -->
   <a href="https://www.linkedin.com/in/ruanbr/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -35,18 +32,22 @@
 
 ### 👨‍💻 Sobre Mim
 
-> *"5+ anos no mercado imobiliário me ensinaram como as pessoas pensam e negociam. A Ciência da Computação me ensinou como os sistemas escalam. Hoje, uno os dois mundos para criar dados com propósito e software que resolve problemas reais."*
+> *"Passei 5 anos entendendo como pessoas negociam, decidem e confiam. Agora uso engenharia de software e dados para resolver os mesmos problemas — só que em escala."*
 
-- 🎓 **Formação Acadêmica:** Graduando em **Sistemas de Computação pela UFF** (Universidade Federal Fluminense), com +40% do curso adiantado.
-- 🛠️ **Foco Técnico:** Engenharia de Dados & Desenvolvimento Full-Stack moderno. Apaixonado por arquiteturas limpas, modelagem relacional/não-relacional e automação em nuvem.
-- 🎯 **Soft Skills que fazem a diferença:** Mais de 80 operações concluídas com sucesso no setor imobiliário, trazendo bagagem sólida em negociação, resolução de conflitos, escuta ativa e visão de negócio.
-- ⚡ **Fun fact:** Se uma query SQL demorar mais de 3 segundos ou a garrafa de café estiver vazia, aciono imediatamente o protocolo de emergência.
+Tenho interesse genuíno por **engenharia de software** e **engenharia de dados**. Minha motivação diária é otimizar a minha rotina e a das pessoas ao meu redor com soluções inovadoras e criativas, combinando **automação** e **design thinking** para transformar problemas reais em software funcional.
+
+- 🎓 **5º período de Sistemas de Computação — UFF** (Universidade Federal Fluminense)
+- 🏢 **+5 anos no mercado imobiliário** como administrador de imóveis e consultor — vendas, negociação, gestão de clientes e resolução de conflitos entre contratantes (reduzindo ingressos judiciais e mitigando danos materiais)
+- 📊 **Visão analítica de negócios** — experiência prática com Power BI, Excel e CRMs (HubSpot, Salesforce) para transformar dados de mercado em dashboards, indicadores e insights que apoiam decisões comerciais e operacionais
+- 🎯 **Próximo objetivo:** Certificação **AWS AI Practitioner** e aprofundamento em dados e cibersegurança
+- 🤝 **Disponível** para conversas sobre oportunidades de emprego e projetos inovadores
+- ⚡ **Fun fact:** Consigo traduzir "dor de negócio" em requisito técnico mais rápido do que a maioria — herança de quem já ouviu centenas de clientes do mercado imobiliário
 
 <br/>
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
+### 🛠️ Tech Stack
 
 <div align="center">
 
@@ -58,17 +59,17 @@
 <br/>
 
 <details>
-<summary><b>🔍 Detalhamento por Especialidade</b> (clique para expandir)</summary>
-
+<summary>🔍 <b>Detalhamento por especialidade</b></summary>
 <br/>
 
-| Categoria | Tecnologias & Ferramentas |
+| Área | Stack |
 | :--- | :--- |
-| **Linguagens & Core** | Python, TypeScript, JavaScript, Dart, SQL, Shell/Bash |
-| **Engenharia de Dados & BI** | PostgreSQL, MongoDB, Pandas, NumPy, SciPy, Power BI, Modelagem de Dados |
-| **Frameworks & Web** | Next.js, React, Vue.js, Flask, Django, Flutter, Tailwind CSS |
-| **Cloud & DevOps** | AWS, Docker, Supabase, Linux, Terraform, GitHub Actions, CI/CD |
-| **Gestão & Métodos** | Scrum / Metodologias Ágeis, Jira, Figma, Git Flow |
+| **Linguagens** | Python · TypeScript · JavaScript · Dart · SQL · Shell/Bash |
+| **Data & BI** | PostgreSQL · MongoDB · Pandas · NumPy · SciPy · SymPy · Power BI |
+| **Frameworks** | Next.js · React · Vue.js · Flask · Django · Flutter · Tailwind CSS |
+| **Cloud & DevOps** | AWS · Docker · Supabase · Linux · Terraform · GitHub Actions · CI/CD |
+| **CRM & Business** | HubSpot · Salesforce · Excel avançado · Análise de funil de vendas |
+| **Gestão** | Scrum · Jira · Figma · Git Flow · Design Thinking |
 
 </details>
 
@@ -84,48 +85,67 @@
 <td width="50%" valign="top">
 
 #### 🏠 [Gestor do Ateliê Lúcia](https://github.com/zzruanxx)
-*Sistema de gestão financeira e operacional completo.*
+*Gestão financeira completa para uma artesã — do estoque à margem de lucro.*
 
-- 📊 **Dashboard de KPIs** financeiros e simulador de margens
-- 📦 Controle de estoque e calculadora de preços multi-canal
-- **Stack:** `Next.js 16` • `TypeScript` • `Supabase` • `Tailwind CSS`
+- 📊 Dashboard de KPIs e simulador de margem
+- 🧮 Calculadora de preços multi-canal
+- 📦 Controle de estoque inteligente
+- **Stack:** `Next.js` · `TypeScript` · `Supabase` · `Tailwind`
 
 </td>
 <td width="50%" valign="top">
 
 #### 🏡 [RealStateHouseFinder](https://github.com/zzruanxx)
-*Portal imobiliário inteligente unindo visão de mercado e tecnologia.*
+*Portal imobiliário inteligente — nascido da experiência real no setor.*
 
-- 🔍 Busca avançada de imóveis com filtros dinâmicos
-- 📸 Painel administrativo, lightbox interativo e lead capture via WhatsApp
-- **Stack:** `Vue.js 3` • `Appwrite` • `Vite` • `Tailwind CSS`
+- 🔍 Busca avançada com filtros dinâmicos
+- 📸 Painel admin, lightbox e integração WhatsApp
+- 🔐 Autenticação e gestão de leads
+- **Stack:** `Vue.js 3` · `Appwrite` · `Vite`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 📐 [Verificador de Subespaços](https://github.com/zzruanxx)
-*Ferramenta interativa e visual de Álgebra Linear computacional.*
+#### 📐 [Verificador de Subespaços Vetoriais](https://github.com/zzruanxx)
+*Ferramenta acadêmica com visualização 2D/3D para Álgebra Linear.*
 
-- 🌐 Renderização geométrica em 2D e 3D
-- 📝 Validação formal passo a passo de subespaços vetoriais
-- **Stack:** `Python` • `Flask` • `NumPy`
+- 🌐 Renderização geométrica interativa
+- 📝 Validação formal passo a passo
+- 🎓 Criado para auxiliar nos estudos na UFF
+- **Stack:** `Python` · `Flask` · `NumPy` · `SciPy`
 
 </td>
 <td width="50%" valign="top">
 
 #### 🧮 [MatrixPy](https://github.com/zzruanxx)
-*Motor matemático para cálculos matriciais e vetoriais em tempo real.*
+*Motor de cálculos matriciais e sistemas lineares em tempo real.*
 
-- ⚡ Solucionador analítico de sistemas lineares complexos
-- 📈 Visualizador gráfico e cálculo de determinantes/autovalores
-- **Stack:** `Python` • `Flask` • `SymPy`
+- ⚡ Resolução analítica de sistemas lineares
+- 📈 Visualizador gráfico 2D/3D e autovalores
+- 🎓 Suporte à progressão acadêmica em Computação
+- **Stack:** `Python` · `Flask` · `SymPy` · `JavaScript`
 
 </td>
 </tr>
 </table>
 </div>
+
+<br/>
+
+---
+
+### 🏢 Experiência Profissional
+
+> **Administrador de Imóveis & Consultor Imobiliário** · *5+ anos*
+
+Atuação em vendas, negociação e gestão de carteira de clientes, com destaque para:
+
+- 📊 Criação de dashboards e indicadores com **Power BI** e **Excel** para decisões comerciais
+- 🤝 Gestão de CRMs (**HubSpot**, **Salesforce**) — análise de mercado, precificação e funil de vendas
+- ⚖️ Resolução de conflitos entre contratantes — redução de ingressos judiciais e mitigação de danos
+- 💡 Capacidade de traduzir dores de negócio em requisitos de dados e relatórios acionáveis
 
 <br/>
 
@@ -161,7 +181,7 @@
 
 ---
 
-### 📊 Estatísticas & Atividade no GitHub
+### 📊 GitHub Stats
 
 <div align="center">
 
@@ -171,12 +191,10 @@
 
   <br/><br/>
 
-  <!-- STREAK STATS -->
   <img src="https://streak-stats.demolab.com?user=zzruanxx&theme=tokyonight&hide_border=true&stroke=a855f7&background=0d1117" alt="GitHub Streak" />
 
   <br/><br/>
 
-  <!-- SNAKE GAME (GERADO AUTOMATICAMENTE VIA ACTIONS) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zzruanxx/zzruanxx/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zzruanxx/zzruanxx/output/github-contribution-grid-snake.svg" />
@@ -191,8 +209,9 @@
 
 <div align="center">
 
-  <h3>💬 Vamos trocar uma ideia ou construir algo juntos?</h3>
-  <p>Sinta-se à vontade para me mandar uma mensagem, conectar no LinkedIn ou acompanhar meus projetos!</p>
+  ### 💬 Vamos conversar?
+
+  Estou aberto a **oportunidades de emprego**, **colaborações em projetos** e conversas sobre tecnologia, dados e inovação.
 
   <br/>
 
@@ -201,11 +220,11 @@
   </a>
   &nbsp;
   <a href="https://ruanbatista.tech">
-    <img src="https://img.shields.io/badge/Website-Conhecer_Portfolio-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Conhecer-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:ruanbatistaemporium@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Mandar_Mensagem-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Enviar_Mensagem-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 
   <br/><br/>
